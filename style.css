@@ -1,0 +1,13 @@
+body{
+    margin:0;
+    padding:0;
+    background:rgb(255, 255, 255);
+}
+canvas {
+    padding: 0;
+    margin:0;
+}
+.toolbar {
+    border: solid black 1pt;
+    overflow: auto;
+}
