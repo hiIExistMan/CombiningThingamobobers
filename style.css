@@ -9,5 +9,6 @@ canvas {
 }
 .toolbar {
     border: solid black 1pt;
+    background:rgb(52, 3, 69);
     overflow: auto;
 }
