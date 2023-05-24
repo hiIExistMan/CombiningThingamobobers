@@ -55,7 +55,7 @@ function create(adding) {
 
 function draw() {
     document.querySelector(".toolbar").style.height = windowHeight + "px";
-    background("white");
+    background(69, 2, 92);
     for(let obj of objects) {
         obj.show();
     }
